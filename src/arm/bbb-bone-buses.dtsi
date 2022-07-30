@@ -7,7 +7,7 @@
 
 #include <dt-bindings/board/am335x-bone-pins.h>
 #include <dt-bindings/gpio/gpio.h>
-#include "am335x-bbb-bone-buses.dtsi"
+#include "am335x-bone-common-univ.dtsi"
 
 /********/
 /* LEDs */
