@@ -19,6 +19,6 @@
 };
 
 &ocp {
-    P8_03_pinmux { pinctrl-0 = <&P8_03_gpio_pu_pin>; };
+    P8_03_pinmux { pinctrl-0 = <&P8_03_gpio_pd_pin>; };
     P8_04_pinmux { pinctrl-0 = <&P8_04_gpio_pd_pin>; };
 };
